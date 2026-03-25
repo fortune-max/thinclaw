@@ -1,0 +1,5 @@
+{
+  "name": "core",
+  "description": "Execute shell commands, read/write files, and list directories",
+  "alwaysLoaded": true
+}

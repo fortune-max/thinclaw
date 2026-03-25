@@ -1,0 +1,5 @@
+{
+  "name": "ngrok",
+  "description": "Create public tunnels to expose local services. Use to share web pages, APIs, or files via a public URL.",
+  "adminOnly": true
+}

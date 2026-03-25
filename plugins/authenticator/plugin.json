@@ -1,0 +1,4 @@
+{
+  "name": "authenticator",
+  "description": "Generate 2FA TOTP codes for configured services"
+}
